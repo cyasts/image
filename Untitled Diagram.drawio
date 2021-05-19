@@ -1,1 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T12:28:57.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" version="14.6.5" etag="cGv8PZhs6YUKo6h0ForX" type="github"><diagram id="xdDbnw0HpYW_l1XXmXJl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-19T16:44:24.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="0K7jcNjNaDMHd0Gj8QRz" version="14.6.5" type="github">
+  <diagram id="xdDbnw0HpYW_l1XXmXJl" name="Page-1">
+    <mxGraphModel dx="1550" dy="836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YrDU98_IJ1W9zpBqfQIf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="YrDU98_IJ1W9zpBqfQIf-18" target="YrDU98_IJ1W9zpBqfQIf-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="194" />
+              <mxPoint x="120" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrDU98_IJ1W9zpBqfQIf-18" value="&lt;font style=&quot;font-size: 20px&quot;&gt;桌子上有一个红色的苹果&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="169" y="169" width="550" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YrDU98_IJ1W9zpBqfQIf-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YrDU98_IJ1W9zpBqfQIf-25" target="YrDU98_IJ1W9zpBqfQIf-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="119" y="280" />
+              <mxPoint x="119" y="386" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrDU98_IJ1W9zpBqfQIf-25" value="&lt;font style=&quot;font-size: 20px&quot;&gt;桌子/ 上/ 有/ 一个/ 红色的/ 苹果&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="169" y="255" width="550" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YrDU98_IJ1W9zpBqfQIf-26" value="&lt;font style=&quot;font-size: 20px&quot;&gt;桌子/主语 上/定语 有/谓语 一个/定语 红色的/定语 苹果/宾语&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="169" y="361" width="550" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YrDU98_IJ1W9zpBqfQIf-31" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#ff6666&quot;&gt;词性标注&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="28" y="323" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YrDU98_IJ1W9zpBqfQIf-32" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#ff6666&quot;&gt;自动分词&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="28" y="224" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
